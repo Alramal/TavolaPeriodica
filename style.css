@@ -47,27 +47,80 @@ textarea {
 }
 
 #el2t1 {
-  left: 1445px;
+  left: 1450px;
   top: 5px;
 }
 
 #el2t2 {
   font-size: 21px;
-  left: 1445px;
+  left: 1450px;
   top: 45px;
 }
 
 #el3 {
   background-color: #D1202D;
-  left: 170px;
+  left: 0px;
+  top: 85px;
+}
+
+#el3t1 {
+  left: 5px;
+  top: 90px;
+}
+
+#el3t2 {
+  font-size: 21px;
+  left: 5px;
+  top: 130px;
 }
 
 #el4 {
   background-color: #F7a81D;
-  left: 255px;
+  left: 85px;
+  top: 85px;
+}
+
+#el4t1 {
+  left: 90px;
+  top: 90px;
+}
+
+#el4t2 {
+  font-size: 21px;
+  left: 90px;
+  top: 130px;
 }
 
 #el5 {
   background-color: #FBCE0B;
-  left: 340px;
+  left: 1020px;
+  top: 85px;
+}
+
+#el5t1 {
+  left: 1025px;
+  top: 90px;
+}
+
+#el5t2 {
+  font-size: 21px;
+  left: 1025px;
+  top: 130px;
+}
+
+#el6 {
+  background-color: #9CC77C;
+  left: 1105px;
+  top: 85px;
+}
+
+#el6t1 {
+  left: 1110px;
+  top: 90px;
+}
+
+#el6t2 {
+  font-size: 21px;
+  left: 1110px;
+  top: 130px;
 }
