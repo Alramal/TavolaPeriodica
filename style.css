@@ -1,25 +1,73 @@
 html, body {
   margin: 0;
-  padding: 0;
-}
+  padding:px}
 
 canvas {
   display: block;
 }
 
 input[type="button"] {
-  width: 75px;
-  height: 75px;
-  border: 5px solid #222222;
+  position: fixed;
+  width: 80px;
+  height: 80px;
+  border: 5px solid #111111;
+}
+
+textarea {
+  background: transparent;
+  position: fixed;
+  width: 65px;
+  height: 65px;
+  resize: none;
+  font-size: 42px;
+  border: none;
+  text-align: center;
+  color: #111111;
 }
 
 #el1 {
   background-color: #9CC77C;
-  position: relative;
-  left: 104px;
+  left: 0px;
+}
+
+#el1t1 {
+  left: 5px;
+  top: 5px;
+}
+
+#el1t2 {
+  font-size: 21px;
+  left: 5px;
+  top: 45px;
 }
 
 #el2 {
   background-color: #F7B2CA;
-  
+  left: 1530px;
 }
+
+#el2t1 {
+  left: 1535px;
+  top: 5px;
+}
+
+#el2t2 {
+  font-size: 21px;
+  left: 1535px;
+  top: 45px;
+}
+
+#el3 {
+  background-color: #D1202D;
+  left: 170px;
+}
+
+#el4 {
+  background-color: #F7a81D;
+  left: 255px;
+}
+
+#el5 {
+  background-color: #FBCE0B;
+  left: 340px;
+}t1
