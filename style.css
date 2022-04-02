@@ -8,8 +8,8 @@ canvas {
 }
 
 input[type="button"] {
-  width: 100px;
-  height: 100px;
+  width: 75px;
+  height: 75px;
   border: 5px solid #222222;
 }
 
